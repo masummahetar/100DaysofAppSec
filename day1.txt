@@ -1,0 +1,13 @@
+Day 1: Understanding How the Internet Works
+
+Today, I embarked on the 100DaysofAppSec challenge and dedicated my time to unraveling the intricacies of the internet. Here's a summary of my Day 1 learning:
+
+1. Watched an in-depth animated video titled "How Internet Works?" designed for students. The video provided a detailed overview of the fundamental mechanisms that power the internet. [Watch here](https://www.youtube.com/watch?v=YtxLexm-9pI).
+
+2. Explored "How does the INTERNET work? | ICT #2," a video breaking down the functioning of the internet from an Information and Communication Technology (ICT) perspective. [Watch here](https://www.youtube.com/watch?v=x3c1ih2NJEg).
+
+3. Investigated the [Internet Cable Map](https://www.submarinecablemap.com/) to understand the physical infrastructure, such as submarine cables, that forms the backbone of global internet connectivity.
+
+4. Explored the basics of HTTP (Hypertext Transfer Protocol) and its role in facilitating communication on the internet through the video "What is HTTP? How the Internet Works! #1." [Watch here](https://www.youtube.com/watch?v=wW2A5SZ3GkI).
+
+5. Expore Chrome Dev tool and Learn about WWW and basic of Protocol and status : 
