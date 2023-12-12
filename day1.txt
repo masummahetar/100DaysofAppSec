@@ -10,4 +10,4 @@ Today, I embarked on the 100DaysofAppSec challenge and dedicated my time to unra
 
 4. Explored the basics of HTTP (Hypertext Transfer Protocol) and its role in facilitating communication on the internet through the video "What is HTTP? How the Internet Works! #1." [Watch here](https://www.youtube.com/watch?v=wW2A5SZ3GkI).
 
-5. Expore Chrome Dev tool and Learn about WWW and basic of Protocol and status : 
+5. Expore Chrome Dev tool and Learn about WWW and basic of Protocol and status : https://developer.mozilla.org/en-US/docs/Web/HTTP/Status
