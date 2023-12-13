@@ -1,0 +1,11 @@
+Day 2:
+
+Explored HTML and CSS fundamentals.
+Followed Harvard CS50 Web Programming course: CS50 Web Programming with Python and JavaScript.
+HTML: Learnt about document structure and content.
+CSS: Explored styling elements, adding a visual layer to web pages.
+Excited to continue the CS50 journey for a deeper understanding of web development.
+Next Steps:
+
+Dive into more complex HTML/CSS concepts.
+Continue with CS50, progressing into Python and JavaScript.
