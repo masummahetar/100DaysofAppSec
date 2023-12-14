@@ -1,0 +1,15 @@
+Day 3:
+
+Explored Git: Learned version control basics, creating repositories, and managing changes with Git.
+Dived into Python: Understanding Python fundamentals, syntax, and its role in web development.
+
+Continuing the learning journey with the Harvard CS50 Web Programming course: CS50 Web Programming with Python and JavaScript.
+
+Key Takeaways:
+
+Git for effective collaboration and version management.
+Python as a versatile language, essential in web development.
+Next Steps:
+
+Practice Git commands and workflows.
+Apply Python concepts in web development projects.
